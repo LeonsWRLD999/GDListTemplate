@@ -1,5 +1,5 @@
 {
-    "id": "135893402 (also not official),
+    "id": "135893402 (also not official)",
     "name": "Kocmoc Unleashed",
     "author": "Cherry Team",
     "creators": ["spk", "Vernam", "inex", "CuLuC", "ImMaxX1", "GALLIARD", "KissTheChrist", "Konsi", "Bop", "Mzero", "Leftyy", "kivvvi", "Winchester"],
@@ -8,5 +8,11 @@
     "percentToQualify": "56",
     "password": "Free To Copy",
     "records": [
-    ]
-}
+            {
+                "user": "Doggie",
+                "link": "https://www.youtube.com/watch?v=Emd2tWP2FkI",
+                "percent": 97,
+                "hz": 480
+            }
+        ]
+    }
